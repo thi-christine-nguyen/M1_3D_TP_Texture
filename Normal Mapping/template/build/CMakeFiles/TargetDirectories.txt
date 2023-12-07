@@ -1,0 +1,3 @@
+/home/thi/Bureau/M1_Imagine/TP-3D/Normal Mapping/template/build/CMakeFiles/tp.dir
+/home/thi/Bureau/M1_Imagine/TP-3D/Normal Mapping/template/build/CMakeFiles/edit_cache.dir
+/home/thi/Bureau/M1_Imagine/TP-3D/Normal Mapping/template/build/CMakeFiles/rebuild_cache.dir

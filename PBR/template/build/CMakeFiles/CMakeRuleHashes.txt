@@ -1,0 +1,2 @@
+# Hashes of file build rules.
+745b97b13acb6d1fd12d62620c088d7f thirdparties/assimp/CMakeFiles/uninstall
